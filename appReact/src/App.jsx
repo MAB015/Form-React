@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Form from './components/Form'
-import './App.css'
+import './assets/css/style.css'
 
 function App() {
   const [count, setCount] = useState(0)
